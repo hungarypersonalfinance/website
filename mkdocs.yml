@@ -1,0 +1,31 @@
+site_name: Personal Finance // Hungary
+site_description: "Személyes pénzügyek Magyarországon"
+repo_url: https://github.com/hungarypersonalfinance/website
+
+theme:
+  name: material
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+  - index.md
+  - flowchart.md
+  - vesztartalek.md
+  - Befektetések:
+    - kotveny.md
+    - Részvénypiac:
+      - reszveny.md
+      - etf.md
+    - strategia.md
+  - brokerek.md
+  - irodalom.md
+
