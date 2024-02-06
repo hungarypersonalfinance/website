@@ -1,14 +1,17 @@
 # Flowchart
 
+A [mentőcsomag](https://mentocsomag.github.io/hun-finance-flowchart/) és a [UK Personal Finance flowchart](https://ukpersonal.finance/flowchart/) kicsit lerövidítve:
+
 ```mermaid
 flowchart TB
-    A(3-6 havi tartalék megvan) -->|Igen| B[Céljaid távja]
-    A -->|Nem| C[Gyűjts vésztartalékot]
-    B -->|"Rövid távú (<5 év)"| D[Állampapír]
-    B -->|"Hosszú távú (>5 év)"| E[Kockázatvállalás?]
-    E -->|Kockázatkerülő| D
-    E -->|Kiegyensúlyozott| F[ETF + állampapír túlsúly]
-    E -->|Kockázatvállaló| G[ETF túlsúly + állampapír]
+    A("Van magas kamatú hiteled? (pl személyi kölcsön)") -->|Igen| B[Fókuszálj a törlesztésére]
+    A -->|Nincs| C[3-6 havi vésztartalékod megvan?]
+    C -->|Igen| D[Céljaid távja]
+    C -->|Nem| E[Gyűjts vésztartalékot]
+    D -->|"Rövid távú (<5 év)"| F[Állampapír]
+    D -->|"Hosszú távú (>5 év)"| G[Kockázatvállalás?]
+    G -->|Kockázatkerülő| H[ETF + állampapír túlsúly]
+    G -->|Kockázatvállaló| I[ETF túlsúly + állampapír]
 ```
 
 ## Magyarázat
