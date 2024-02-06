@@ -1,0 +1,10 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Serve website in Docker",
+            "command": "docker run -it -p 8000:8000 -v ${PWD}:/docs python:3.11-alpine sh -c \"cd /docs && pip install -r requirements.txt && mkdocs serve -a '0.0.0.0:8000'\""
+        }
+    ]
+}

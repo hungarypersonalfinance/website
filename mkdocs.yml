@@ -1,11 +1,26 @@
 site_name: Personal Finance // Hungary
+repo_url: https://github.com/hungarypersonalfinance/website
 
 theme:
   name: material
 
 markdown_extensions:
+  - admonition
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+nav:
+  - index.md
+  - flowchart.md
+  - vesztartalek.md
+  - Befektetések:
+    - kotveny.md
+    - Részvénypiac:
+      - reszveny.md
+      - etf.md
+    - strategia.md
+  - brokerek.md
+  - irodalom.md
+
