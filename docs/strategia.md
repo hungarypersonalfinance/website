@@ -82,7 +82,7 @@ A részvénypiacot a VTSMX, a kötvénypiacot pedig a VBMFX alapokkal modellezem
 
 ![1990-2024](./assets/1999_2024.png)
 ![1990-2024](./assets/1999_2024_annual.png)
-*Ha 1999-ben akartad meglovagolni a dotcom lufit, akkor egy részvény-túlsúlyú portfólióval egészen 2004-ig izzadtál volna, mint 💃 a ⛪️.*
+*Ha 1999-ben akartad meglovagolni a dotcom lufit, akkor egy részvény-túlsúlyú portfólióval egészen 2004-ig izzadtál volna, mint :dancer_tone2: a :church:.*
 
 #### 2009-2024
 

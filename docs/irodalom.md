@@ -1,6 +1,6 @@
 # Irodalom
 
-## Könyvek 📚
+## Könyvek :books:
 
 - John C. Bogle - The Little Book of Common Sense Investing
 - Burton Malkiel - A Random Walk Down Wall Street
@@ -13,7 +13,7 @@
 
 - András György - A lusta portfólió
 
-## Fórumok és közösségek 💬
+## Fórumok és közösségek :speech_balloon:
 
 - [Bogleheads](https://www.bogleheads.org/forum/)
 - [Bogleheads // Reddit](https://www.reddit.com/r/Bogleheads/) (99% amerikai témájú)
@@ -23,16 +23,17 @@
 
 ### Magyar
 
+- [Mentőcsomag // Pénzügyi tudatosság flowchart](https://mentocsomag.github.io/hun-finance-flowchart/)
 - [Kiszamolo // Reddit](https://www.reddit.com/r/kiszamolo/)
 - [Kiszamolo // Reddit // Gyakran ismételt kérdések](https://www.reddit.com/r/kiszamolo/comments/vsmyqs/gyik_mibe_fektessem_a_p%C3%A9nzem/)
 - [Mibe fektessem a megtakarításaimat? // Prohardver](https://prohardver.hu/tema/mibe_tegyem_a_megtakaritasaimat/friss.html)
 
 !!! tip "Tipp"
-    Mielőtt írnál egy posztot a fenti fórumokra, kérdezd meg magadtól: vajon én vagyok az első ember, aki ezt kérdezte? Ha a válasz nem, addig használd a keresőt, amíg el nem kopik a gomb. 🙂
+    Mielőtt írnál egy posztot a fenti fórumokra, kérdezd meg magadtól: vajon én vagyok az első ember, aki ezt kérdezte? Ha a válasz nem, addig használd a keresőt, amíg el nem kopik a gomb. :slight_smile:
 
     Nem baj, ha nem vagy biztos magadban, de egy "4 millió forintom van bankban, 600 ezret keresek, mibe fektessek?" kérdés helyett inkább egy "x és y szeretnék befektetni, szerintetek jó ötlet" jellegű kérdést tegyél fel és boldogabban fognak válaszolni neked.
   
-## YouTube csatornák 📽️
+## YouTube csatornák :fontawesome-brands-youtube: <!-- markdownlint-disable-line MD026 -->
 
 - [Ben Felix](https://www.youtube.com/c/BenFelixCSI) (kanadai)
 - [Ramin Nakisa](https://www.youtube.com/@Pensioncraft) (brit)

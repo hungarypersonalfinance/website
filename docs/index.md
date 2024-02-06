@@ -2,7 +2,7 @@
 
 A weblap célja, hogy a magyar befektetői közösség tapasztalatait összegyűjtse, és azokat közérthetővé tegye.
 
-Az oldalon talált információkat és tanácsokat ne vedd készpénznek, [olvass több forrást](./irodalom.md), okítsd magad. Ne feledd: a pénzügyi döntéseidet mindig saját felelősségedre hozod meg.
+:warning: Az oldalon talált információkat és tanácsokat ne vedd készpénznek (ha-ha), [olvass több forrást](./irodalom.md), okítsd magad. Ne feledd: a pénzügyi döntéseidet mindig saját felelősségedre hozod meg.
 
 ## Hol kezdjem?
 

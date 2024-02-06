@@ -8,7 +8,7 @@ Mielőtt belemegyünk a brókerek részleteibe, érdemes megemlíteni a részvé
 - a veszteséget le lehet vonni az adóalapból (tehát ha 100 ezer forintot nyertél és 25 ezret vesztettél, akkor csak 75 ezer forint után kell adót fizetni)
 - deviza esetében az aznapi MNB hivatalos árfolyamával kell kalkulálni
 
-Szerencsére van rá mód, hogy ezt az adót elkerüld. 👇
+Szerencsére van rá mód, hogy ezt az adót elkerüld. :point_down:
 
 ### TBSZ
 
@@ -41,7 +41,7 @@ Mivel itt elsősorban a hosszútávú befektetésekről van szó, ezért mindig 
 
 ## Interactive Brokers
 
-Az Interactive Brokers az egyik legjobb hírnevű bróker a világon. 1978-ban, több mint 45 éve alapították (egyébként [egy magyar származású ember](https://en.wikipedia.org/wiki/Thomas_Peterffy)) és egy NASDAQ-on jegyzett cég. 14.1 milliárd dolláros tőkével rendelkezik és több mint két millió ügyfele van világszerte. Egyébként van egy pesti irodájuk is, itthon is fejlesztik a terméket.
+Az Interactive Brokers az egyik legjobb hírnevű bróker a világon. 1978-ban, több mint 45 éve alapították ([egy magyar származású üzletember](https://en.wikipedia.org/wiki/Thomas_Peterffy)) és a NASDAQ-on is jelen van. 14.1 milliárd dolláros tőkével rendelkezik és több mint két millió ügyfele van világszerte. Egyébként van egy pesti irodájuk is, itthon is fejlesztik a terméket.
 
 Az IBKR mindig is jelen volt Európában, de a tavalyi év közepén lett igazán jó opció nekünk magyaroknak, mert ekkor vezették be a TBSZ-t hosszas várakozás után.
 
@@ -59,11 +59,11 @@ Költségek:
 - pénz kiutalás havi egyszer ingyenes
 
 !!! tip "Tipp"
-    Érdemes úgy vásárolni, hogy a minimumot tranzakciós költséget elérd. Tehát ha 1000 euróért vásárolsz, akkor 4 euró a költség, de ha 300 euróért vásárolsz, akkor is 4 euró a költség. Magyarul érdemes lehet addig gyűjteni a pénzed, amíg nem éred el az 1000 eurót és csak utána vásárolni.
+    Érdemes úgy vásárolni, hogy a minimum tranzakciós költséget elérd. Tehát ha 1000 euróért vásárolsz, akkor 4 euró a költség, de ha 300 euróért vásárolsz, akkor is 4 euró a költség. Magyarul érdemes lehet addig gyűjteni a pénzed, amíg nem éred el az 1000 eurót és csak utána vásárolni.
 
 ### Reputáció és biztonság
 
-Az IBKR az egyik leghosszabb történelmű és legjobb hírnevű bróker Európában. Minden 2024 után nyitott magyar IBKR account az ír leányvállalathoz (IB Ireland vagy IBIE) tartozik. Az ír leányvállalat ügyfélvédelmi leírását [itt](https://www.interactivebrokers.ie/en/general/security-investor-protection.php) találod. Röviden:
+Az IBKR az egyik leghosszabb történelmű és legjobb hírnevű bróker Európában. Minden 2024 után nyitott magyar IBKR account az ír leányvállalathoz (IB Ireland vagy IBIE) tartozik. Az ír leányvállalat ügyfélvédelmi nyilatkozatát [itt](https://www.interactivebrokers.ie/en/general/security-investor-protection.php) találod. Röviden:
 
 - Az ügyfelekhez tartozó készpénzt külön kezelik a sajátjuktól.
 - A vagyonod 20 ezer euróig van biztosítva (European Investor Compensation Scheme).
@@ -71,7 +71,7 @@ Az IBKR az egyik leghosszabb történelmű és legjobb hírnevű bróker Európ�
 
 ## Lightyear
 
-A Lightyear egy új észt bróker, amelyet 2020-ban alapított két ex-Wise alkalmazott, [Martin Sokk](https://www.linkedin.com/in/martinsokk/) és [Mihkel Aamer](https://www.linkedin.com/in/mihkel-aamer-9099b918/). 2022-es Series A-ben 25 millió dollárt gyűjtöttek. A magyar piacot úgy tűnik kedvelik, mert az írás pillanatában a 19 álláshirdetésükből 4 magyar nyelvet igényel.
+A Lightyear egy új észt bróker, amelyet [2020-ban alapított](https://lightyear.com/eu/blog/why-i-joined-lightyear) két ex-Wise alkalmazott, [Martin Sokk](https://www.linkedin.com/in/martinsokk/) és [Mihkel Aamer](https://www.linkedin.com/in/mihkel-aamer-9099b918/). 2022-es Series A-ben 25 millió dollárt gyűjtöttek. A magyar piacot úgy tűnik kedvelik, mert az írás pillanatában a 19 álláshirdetésükből 4 magyar nyelvet igényel.
 
 A Lightyear a szép és könnyen használható felhasználói felületével és a [kirívóan alacsony költségeivel](https://lightyear.com/eu/pricing) próbál betörni a piacra:
 

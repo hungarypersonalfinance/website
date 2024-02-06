@@ -1,5 +1,9 @@
 # ETF
 
+Lehet, hogy amit itt elhangzik félelmetesnek hat először. Ez teljesen természetes. Nyilván nem kell instant az összes pénzedet ETF-ekbe fektetned. Az bőven jó, ha kicsiben kezdesz és szép lassan hozzászoktatod magad az érzéshez, hogy nem a bankszámládon pihen a pénzed.
+
+:exclamation: Ne feledd: bármi, amit az interneten olvasol fenntartásokkal kezeld és járj utána magad is. Ehhez az [irodalom](irodalom.md) szekció segítséget nyújthat.
+
 ## MSCI World, FTSE All World
 
 A két legnépszerűbb all-world indexek [korábban említve](reszveny.md#indexek) voltak: MSCI World és FTSE All World. Az lényegi különbség, hogy az előbbi csak a fejlett országokat tartalmazza, míg az utóbbi a fejlett és a feltörekvő piacokat egyaránt. Voltak olyan időszakok a történelemben, amikor a feltörekvő piacok jobban teljesítettek, mint a fejlettek, ezért érdemes lehet az FTSE All World-öt választani.
@@ -38,7 +42,7 @@ Ha megnyitod a [screener](https://www.justetf.com/en/find-etf.html) oldalt, vál
 
 ![JustETF](./assets/just_etf_list.png)
 
-A képernyőkép készítés időpontjában csupán két darab ilyen ETF van, a Vanguard-é és az Invesco-é. A képen látszik továbbá, hogy a Vanguard 8720 millió, amíg az Invesco "csak" 73 millió eurót kezel. Az Invesco oldalán az alacsonyabb költség (0.15% vs 0.22%), a Vanguard oldalán pedig a nagyobb tőke és reputáció szól. A hozamuk valószínűleg tizedpontossággal megegyezik, de ezt próbáld te kinyomozni. 🙂
+A képernyőkép készítés időpontjában csupán két darab ilyen ETF van, a Vanguard-é és az Invesco-é. A képen látszik továbbá, hogy a Vanguard 8720 millió, amíg az Invesco "csak" 73 millió eurót kezel. Az Invesco oldalán az alacsonyabb költség (0.15% vs 0.22%), a Vanguard oldalán pedig a nagyobb tőke és renomé szól. A hozamuk valószínűleg tizedpontossággal megegyezik, de ezt próbáld te kinyomozni. :slight_smile:
 
 !!! info "TER"
     A TER (Total Expense Ratio) az ETF éves költsége, amit a kezelt vagyon százalékában mérnek. Minél alacsonyabb, annál jobb. A TER teljesen "átlátszó" a befektető számára, neked semmit nem kell fizetned, mert a költségek már benne vannak az árfolyamban. [A teljes történet kicsit összetettebb](https://www.justetf.com/en/news/etf/cost-of-etfs-total-expense-ratio-ter-vs-total-cost-of-ownership-tco.html).
