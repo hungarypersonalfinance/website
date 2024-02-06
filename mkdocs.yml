@@ -1,4 +1,5 @@
 site_name: Personal Finance // Hungary
+site_description: "Személyes pénzügyek Magyarországon"
 repo_url: https://github.com/hungarypersonalfinance/website
 
 theme:
@@ -11,6 +12,7 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+
 nav:
   - index.md
   - flowchart.md
