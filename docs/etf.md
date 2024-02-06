@@ -23,7 +23,7 @@ Két fő típusú ETF létezik: accumulating (felhalmozó) és distributing (osz
     Évi 6%-os hozam mellett 12 év alatt az eredeti befektetésed megduplázódik. A kamatos kamát varázsa.
 
 ![Rule of 72](./assets/vanguard_accumulation.svg)
-*Osztalék kivétele vs osztalék visszaforgatása. [Forrás](https://investor.vanguard.com/investor-resources-education/how-to-invest/risk-reward-compounding).*
+*Osztalék kivétele vs osztalék visszaforgatása. Forrás: [investor.vanguard.com](https://investor.vanguard.com/investor-resources-education/how-to-invest/risk-reward-compounding).*
 
 ## Melyik ETF-et vegyem?
 
@@ -46,7 +46,7 @@ A képernyőkép készítés időpontjában csupán két darab ilyen ETF van, a 
 !!! question "Házi feladat"
     Keresd ki JustETF-en a legpopulárisabb MSCI World ETF-et. Nézd meg, hogy melyik cégé és hogy mit lehet tudni a cégről.
 
-Ha megnyitod az ETF oldalát és a legaljára tekersz a "Listings" részhez, látni fogod, hogy milyen azonosítóval (ticker) találod meg az ETF-et a különböző tőzsdéken. Legsűrűbben a frankfurti (XETRA) és a londoni (London Stock Exchange) tőzsdét használjuk, de attól is függ, hogy milyen pénznemben szeretnéd megvenni az ETF-et.
+Ha megnyitod az ETF oldalát és a legaljára tekersz a "Listings" részhez, látni fogod, hogy milyen azonosítóval (ticker) találod meg az ETF-et a különböző tőzsdéken. Általában ezen a néven is becézik őket (pl. VWCE). Van egy egyedi azonosítója is, aminek ISIN a neve és kicsit kevésbé megjegyezhetőbb. Legsűrűbben a frankfurti (XETRA) és a londoni (London Stock Exchange) tőzsdét használjuk, de attól is függ, hogy milyen pénznemben szeretnéd megvenni az ETF-et.
 
 !!! info "Pénznem"
     A pénznem teljesen mindegy, az árfolyam pont ugyanúgy változik. Válaszd azt, ami kényelmesebb.

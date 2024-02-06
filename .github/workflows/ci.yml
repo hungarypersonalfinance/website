@@ -1,0 +1,22 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.head_ref || github.run_id }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    name: Lint 🤓
+    runs-on: ubuntu-latest
+    steps:
+        - name: Checkout
+          uses: actions/checkout@main
+
+        - name: Run markdownlint
+          uses: articulate/actions-markdownlint@main

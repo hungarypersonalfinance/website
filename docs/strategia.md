@@ -48,7 +48,9 @@ A döntéskor vedd figyelembe, hogy hány éves vagy, milyen az egészséged (v�
 | [Kötvény](kotveny.md)        | 70%   |
 | [All-World ETF](reszveny.md) | 30%   |
 
-### Kiegyensúlyozott
+Tipikusan nyugdíj előtt állóknak.
+
+### Defenzív
 
 | Eszköz                       | Arány |
 | ---------------------------- | ----- |
@@ -61,6 +63,8 @@ A döntéskor vedd figyelembe, hogy hány éves vagy, milyen az egészséged (v�
 | ---------------------------- | ----- |
 | [Kötvény](kotveny.md)        | 10%   |
 | [All-World ETF](reszveny.md) | 90%   |
+
+Akik hosszútávon gondolkodnak, és nem ijednek meg a hullámvasúttól.
 
 ### Backtest
 

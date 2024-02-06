@@ -18,7 +18,7 @@ Egy index általában egy adott ország, régió, vagy iparág legnagyobb válla
 - Az [S&P 500](https://en.wikipedia.org/wiki/S%26P_500) az Egyesült Államok 500 legnagyobb vállalatát tartalmazza. Az [S&P Global Ratings](https://en.wikipedia.org/wiki/S%26P_Global_Ratings) nevű hitelminősítő cég üzemelteti.
 - A [Dow Jones](https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average) az Egyesült Államok 30 *legfontosabb* vállalatát tartalmazza. Egy bizottság dönt a tartalmáról és [pár évente frissítik](https://en.wikipedia.org/wiki/Historical_components_of_the_Dow_Jones_Industrial_Average).
 - A [NASDAQ-100](https://en.wikipedia.org/wiki/Nasdaq-100) az Egyesült Államok 100 legnagyobb nem pénzügyi vállalatát tartalmazza.
-- Az [MSCI World](https://en.wikipedia.org/wiki/MSCI_World) iparágtól függetlenül a világ 23 [fejlett országának](https://en.wikipedia.org/wiki/Developed_market) vállalatait tartalmazza. Mikor valaki azt mondja, hogy "a piac teljesítménye", akkor valószínűleg erre az indexre gondol. 1970-ben indult, ezért történelmi adatok is rendelkezésre állnak.
+- Az [MSCI World](https://en.wikipedia.org/wiki/MSCI_World) iparágtól függetlenül a világ 23 [fejlett országának](https://en.wikipedia.org/wiki/Developed_market) vállalatait tartalmazza. 1970-ben indult, ezért történelmi adatok is rendelkezésre állnak.
 - Az [FTSE All World Index](https://research.ftserussell.com/Analytics/FactSheets/temp/affafdfe-a680-4085-afd5-b1d90c25c411.pdf) (becézve "footsie") a Föld minden táján található nagy és közepes kapitalizációjú vállalatok részvényeinek piaci teljesítményét méri. Mintegy 4000 részvényt tartalmaz közel 50 országban, beleértve a fejlett és a [feltörekvő piacokat](https://en.wikipedia.org/wiki/Emerging_market) is. A globális befektethető piaci kapitalizáció több mint 95%-át fedi le.
 
 | Index neve     | Ország    | Vállalatok száma | Típus                        |
@@ -51,7 +51,7 @@ Egy index általában egy adott ország, régió, vagy iparág legnagyobb válla
 
 A két legelterjedtebb befektetési forma a tőzsdén kereskedhető alap (ETF - Exchange Traded Fund) és a befektetési alap (mutual fund). (Igen, elég szerencsétlenek a magyar fordítások.)
 
-A befektetési alapokat tipikusan bankok és egyéb pénzügyi szolgáltatók kínálják és aktívan kezelik őket. Ezzel szemben az ETF-ek - ahogy neve is sugallja - szimplán megvásárolhatóak a tőzsdén is, pont úgy, mint a hagyományos részvények. Tipikusan egy [indexet](#indexek) vagy egy szektort követnek. Akad másfajta is, de az egyszerűség kedvéért lentiekben az ETF-ekre mindig az index alapú befektetéseket értjük.
+A befektetési alapokat tipikusan bankok és egyéb pénzügyi szolgáltatók kínálják és aktívan kezelik őket. Ezzel szemben az ETF-ek - ahogy neve is sugallja - szimplán megvásárolhatóak a tőzsdén is, pont úgy, mint a hagyományos részvények. Tipikusan egy [indexet](#indexek), régiót vagy egy szektort követnek. Akadnak egzotikusabbak is, de az egyszerűség kedvéért lentiekben az ETF-ekre mindig az index alapú befektetéseket értjük.
 
 ## Aktív vs. passzív alapok
 
@@ -64,7 +64,7 @@ Aktív alapok:
 Passzív alapok:
 
 - Célja, hogy egy adott index teljesítményét kövessék.
-- Alacsonyabb költségekkel járnak, mivel nincs szükség portfólió menedzserekre. Az alapokat algoritmusok kezelik, amik pontosan igyekeznek követni az indexet.
+- Alacsonyabb költségekkel járnak, mivel nincs szükség portfólió menedzserekre. Az alapokat algoritmusok kezelik, amik pontosan igyekeznek követni az indexet. (Lásd még: [tracking error](https://www.investopedia.com/terms/t/trackingerror.asp))
   
 Az elmúlt évtizedek során elvégzett [tanulmányok](https://www.scirp.org/journal/paperinformation?paperid=92983) egyértelműen kimutatták, hogy az aktívan menedzselt alapok átlagban **nem tudják megelőzni az indexek teljesítményét**. Cserébe viszont magasabb költségekkel járnak, ami hosszú távon jelentős különbséget jelent a hozamokban.
 
