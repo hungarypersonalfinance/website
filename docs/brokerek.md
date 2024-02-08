@@ -92,7 +92,7 @@ A Lightyear gyakorlatilag még egy fiatal startup, ezért a megbízhatóságár�
 - A vagyonod 20 ezer euróig van biztosítva.
 - Értékpapírok az ügyfél saját nevén (erről [lentebb](#kozponti-ertektarak-central-securities-depository) olvass mindenképp!) <!-- markdownlint-disable-line MD051 -->
 
-## Bróker összessítés
+## Bróker összesítés
 
 | Bróker              | Reputáció  | Költségek                              |
 | ------------------- | ---------- | -------------------------------------- |
