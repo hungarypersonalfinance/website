@@ -11,7 +11,7 @@ Nagyban függ a személyes körülményektől: egyedül tartasz el alacsony jöv
 !!! warning "Fontos"
     A vésztartaléknak mindig azonnal hozzáférhetőnek kell lennie. Nem baj ha le van kötve, de "feltörhető" legyen baj esetén.
 
-Akár ülhet a bankszámládon is, de tipikusan a bankok nullához konvergáló látraszóló kamatot kínálnak. Az írás pillanatában kivételt képez például a [Cetelem Takarékszámla](https://www.cetelem.hu/takarekszamla) (~8%) vagy a [Gránit Kamat Plusz](https://granitbank.hu/lakossag/bankszamlak/kamatplusz/) (~5%). A kamatadót a bankok levonják, nincs vele teendőd.
+Akár ülhet a bankszámládon is, de tipikusan a bankok nullához konvergáló látraszóló kamatot kínálnak. Az írás pillanatában kivételt képez például a [Cetelem Takarékszámla](https://www.cetelem.hu/takarekszamla) (~5%) vagy a [Gránit Kamat Plusz](https://granitbank.hu/lakossag/bankszamlak/kamatplusz/) (~5%). A kamatadót a bankok levonják, nincs vele teendőd.
 
 A magyar [állampapírral](kotveny.md) nem lehet mellélőni. A különböző termékek és a hozamaik változnak évről évre, viszont az biztos hogy az átlagos banki ~0.01%-nál mindig magasabb lesz. :slight_smile: A pénz le van kötve, de azonnal feltörhető és másnapra a számládon lehet. Általában ez biztosítja a legmagasabb hozamot az összes eszköz közül.  Teljesen adómentes.
 
