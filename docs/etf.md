@@ -19,12 +19,9 @@ A két legnépszerűbb all-world indexek [korábban említve](reszveny.md#indexe
 
 ## Profit elosztás: Accumulating vs. Distributing
 
-Két fő típusú ETF létezik: accumulating (felhalmozó) és distributing (osztalékfizető). Az ETF neve után általában van egy "Acc" vagy "Dis" rövidítés, ami ezt jelzi. Az accumulating ETF-ek a kifizetett osztalékot automatikusan újra befektetik az alapba, míg a distributing ETF-ek kifizetik az osztalékot. Szinte kivétel nélkül az accumulating ETF-eket érdemes választani, mert így nem kell manuálisan újra befektetni az osztalékot és a kamatos kamat is hatékonyabban érvényesül.
+Két fő típusú ETF létezik: accumulating (felhalmozó) és distributing (osztalékfizető). Az ETF neve után általában van egy "Acc" vagy "Dis" rövidítés, ami ezt jelzi. Az accumulating ETF-ek a kifizetett osztalékot automatikusan újra befektetik az alapba, míg a distributing ETF-ek kifizetik az osztalékot. Szinte kivétel nélkül az accumulating ETF-eket érdemes választani, mert így nem kell manuálisan újra befektetni az osztalékot.
 
 ![Accumulating vs Distributing](./assets/acc_vs_dist.png)
-
-!!! info
-    Évi 6%-os hozam mellett 12 év alatt az eredeti befektetésed megduplázódik. A kamatos kamát varázsa.
 
 ![Rule of 72](./assets/vanguard_accumulation.svg)
 *Osztalék kivétele vs osztalék visszaforgatása. Forrás: [investor.vanguard.com](https://investor.vanguard.com/investor-resources-education/how-to-invest/risk-reward-compounding).*
