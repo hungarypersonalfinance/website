@@ -7,7 +7,7 @@
 - Benjamin Graham - The Intelligent Investor
 
 !!! tip "Tipp"
-    Vannak könyvek, amik teljes egészében fent vannak YouTube-on audiobook formájában, de a legtöbbnek minimum van fent összegzése is.
+    Vannak könyvek, amik teljes egészében fent vannak YouTube-on audiobook formájában, de a rövid összegzése az összesnek fent van.
 
 ### Magyar
 
